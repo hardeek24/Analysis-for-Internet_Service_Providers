@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+plan
+price
+share
+end
+phone
+im
+new
+email
+xfinity
+account
+
+Top 10 words for topic #0:
+['plan', 'price', 'share', 'end', 'phone', 'im', 'new', 'email', 'xfinity', 'account']
+
+Top 10 words for topic #1:
+['data', 'wifi', 'cause', 'pay', 'like', 'xfinity', 'game', 'work', 'download', 'problem']
+
+Top 10 words for topic #2:
+['device', 'issue', 'network', 'data', 'really', 'check', 'try', 'work', 'use', 'month']
+
+Top 10 words for topic #3:
+['phone', 'update', 'hear', 'im', 'send', 'try', 'sorry', 'modem', 'service', 'message']
+
+Top 10 words for topic #4:
+['rule', 'include', 'moderators', 'contact', 'comment', 'remove', 'understand', 'language', 'profanity', 'https']
+
+Top 10 words for topic #5:
+['issue', 'account', 'poor', 'tell', 'month', 'service', 'time', 'customer', 'xfinity', 'money']
+
+Top 10 words for topic #6:
+['dont', 'cable', 'say', 'account', 'comcast', 'service', 'like', 'cancel', 'essentials', 'internet']
+
+Top 10 words for topic #7:
+['issue', 'mobile', 'change', 'pay', 'xfinity', 'work', 'want', 'make', 'comcast', 'service']
+
+Top 10 words for topic #8:
+['cancel', 'sorry', 'post', 'experience', 'service', 'new', 'use', 'dont', 'phone', 'issue']
+
+Top 10 words for topic #9:
+['lose', 'wife', 'sport', 'entertainment', 'package', 'save', 'maybe', 'want', 'hard', 'pay']
+

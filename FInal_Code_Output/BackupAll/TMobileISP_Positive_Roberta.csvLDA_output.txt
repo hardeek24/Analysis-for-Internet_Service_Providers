@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+service
+got
+mobile
+help
+gateway
+really
+phone
+speeds
+better
+tmhi
+
+Top 10 words for topic #0:
+['service', 'got', 'mobile', 'help', 'gateway', 'really', 'phone', 'speeds', 'better', 'tmhi']
+
+Top 10 words for topic #1:
+['usually', 'use', 'eero', 'does', 'band', 'sagemcom', 'good', 'pixel', 'wifi', 'better']
+
+Top 10 words for topic #2:
+['run', 'good', 'getting', 'ive', 'issues', 'mobile', 'use', 'speeds', 'works', 'great']
+
+Top 10 words for topic #3:
+['know', 'gateway', 'tower', 'thank', 'having', 'comment', 'different', 'mobile', 'internet', 'just']
+
+Top 10 words for topic #4:
+['high', 'did', 'day', 'fine', 'tower', 'options', 'wifi', 'try', 'just', 'good']
+
+Top 10 words for topic #5:
+['dont', 'cable', 'area', 'use', 'getting', 'fiber', 'internet', 'tower', 'im', 'tmhi']
+
+Top 10 words for topic #6:
+['worth', 'period', 'perfectly', 'learn', 'trying', 'day', 'fiber', 'thanks', 'worked', 'free']
+
+Top 10 words for topic #7:
+['happy', 'tower', '200', '25', 'mbps', 'phone', 'sim', 'card', 'just', 'model']
+
+Top 10 words for topic #8:
+['believable', 'wifi', 'want', 'things', 'google', 'router', 'gateway', 'wi', 'fi', 'good']
+
+Top 10 words for topic #9:
+['think', 'mobile', 'new', 'using', 'thank', 'good', 'month', 'band', 'speed', 'lte']
+

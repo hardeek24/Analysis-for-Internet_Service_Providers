@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+cancel
+service
+metrics
+lan
+users
+way
+work
+tmobile
+issues
+speeds
+
+Top 10 words for topic #0:
+['cancel', 'service', 'metrics', 'lan', 'users', 'way', 'work', 'tmobile', 'issues', 'speeds']
+
+Top 10 words for topic #1:
+['towers', 'just', 'morning', 'using', 'home', 'like', 'ethernet', 'mobile', 'gateway', 'dont']
+
+Top 10 words for topic #2:
+['think', 'youre', 'just', 'internet', 'speeds', 'normal', 'today', 'issues', 'say', 'load']
+
+Top 10 words for topic #3:
+['getting', 'connection', 'speed', 'weeks', 'ask', 'internet', 'tower', 'stupid', 'sinr', 'bars']
+
+Top 10 words for topic #4:
+['connection', 'sa', 'getting', 'say', 'internet', 'speeds', 'mobile', 'just', 'mbps', 'router']
+
+Top 10 words for topic #5:
+['really', 'issues', 'ping', '100', 'internet', 'good', 'speed', 'loss', 'packet', 'just']
+
+Top 10 words for topic #6:
+['subreddit', 'bot', 'accounts', 'automatically', 'post', 'days', 'account', 'karma', 'comment', 'old']
+
+Top 10 words for topic #7:
+['signal', 'reset', 'bars', 'like', 'phone', 'support', 'device', 'probably', 'tower', 'tmhi']
+
+Top 10 words for topic #8:
+['issue', 'youre', 'getting', 'dont', 'im', 'speed', 'slower', '5g', 'work', 'service']
+
+Top 10 words for topic #9:
+['asus', 'mesh', 'unit', '5ghz', 'phone', 'signal', 'wifi', 'issue', 'use', 'mobile']
+

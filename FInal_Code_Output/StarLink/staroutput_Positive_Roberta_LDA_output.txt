@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+run
+connect
+buy
+itõs
+phone
+know
+great
+network
+use
+starlink
+
+Top 10 words for topic #0:
+['run', 'connect', 'buy', 'itõs', 'phone', 'know', 'great', 'network', 'use', 'starlink']
+
+Top 10 words for topic #1:
+['car', 'upload', 'mount', 'map', 'time', 'https', 'clear', 'flat', 'reboot', 'better']
+
+Top 10 words for topic #2:
+['issue', 'thank', 'areas', 'people', 'service', 'best', 'gen', 'starlink', 'live', 'speed']
+
+Top 10 words for topic #3:
+['quite', 'like', 'really', 'say', 'use', 'thats', 'days', 'great', 'pretty', 'course']
+
+Top 10 words for topic #4:
+['make', 'better', 'gen', 'look', 'bandwidth', 'latency', 'good', 'like', 'starlink', 'need']
+
+Top 10 words for topic #5:
+['itõs', 'internet', 'issue', 'starlink', 'lucky', 'game', 'improve', 'use', 'speed', 'great']
+
+Top 10 words for topic #6:
+['great', 'ethernet', 'good', 'gen', 'cable', 'orbi', 'work', 'dish', 'starlink', 'router']
+
+Top 10 words for topic #7:
+['work', 'cable', 'impressive', 'router', 'inverter', 'better', 'option', 'power', 'starlink', 'https']
+
+Top 10 words for topic #8:
+['reboot', 'thank', 'starlink', 'use', 'time', 'ive', 'id', 'company', 'need', 'work']
+
+Top 10 words for topic #9:
+['connections', 'properly', 'balance', 'job', 'fantastic', 'let', 'asus', 'didnt', 'strong', 'great']
+

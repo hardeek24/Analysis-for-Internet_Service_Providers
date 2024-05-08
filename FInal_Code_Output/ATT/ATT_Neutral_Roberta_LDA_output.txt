@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+qualify
+installments
+plan
+time
+store
+check
+like
+tax
+work
+credit
+
+Top 10 words for topic #0:
+['qualify', 'installments', 'plan', 'time', 'store', 'check', 'like', 'tax', 'work', 'credit']
+
+Top 10 words for topic #1:
+['kelvin', 'service', 'corporate', 'ipad', 'https', 'credit', 'know', 'lol', 'store', 'say']
+
+Top 10 words for topic #2:
+['account', 'number', 'support', 'email', 'card', 'na', 'att', 'store', 'pay', 'phone']
+
+Top 10 words for topic #3:
+['pay', 'job', 'service', 'month', 'like', 'chat', 'say', 'phone', 'att', 'work']
+
+Top 10 words for topic #4:
+['access', 'let', 'free', 'try', 'understand', 'line', 'passcode', 'cancel', 'ask', 'account']
+
+Top 10 words for topic #5:
+['deal', 'send', 'transfer', 'address', 'use', 'new', 'line', 'fiber', 'number', 'phone']
+
+Top 10 words for topic #6:
+['days', 'sure', 'use', 'time', 'make', 'phone', 'pay', 'credit', 'cancel', 'line']
+
+Top 10 words for topic #7:
+['pay', 'update', 'cancel', 'line', 'issue', 'id', 'use', 'account', 'port', 'number']
+
+Top 10 words for topic #8:
+['work', 'esim', 'able', 'carrier', 'like', 'device', 'sim', 'physical', 'lock', 'use']
+
+Top 10 words for topic #9:
+['price', 'cricket', 'data', 'business', 'prepay', 'max', 'new', 'unlimited', 'qci', 'plan']
+

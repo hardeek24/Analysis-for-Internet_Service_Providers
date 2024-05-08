@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+use
+try
+address
+cox
+new
+need
+modem
+router
+ip
+change
+
+Top 10 words for topic #0:
+['use', 'try', 'address', 'cox', 'new', 'need', 'modem', 'router', 'ip', 'change']
+
+Top 10 words for topic #1:
+['account', 'signal', 'password', 'light', 'try', 'need', 'use', 'router', 'cox', 'modem']
+
+Top 10 words for topic #2:
+['try', 'ip', 'connect', 'download', 'speed', 'need', 'file', 'ask', 'cox', 'issue']
+
+Top 10 words for topic #3:
+['gmail', 'throttle', 'speed', 'address', 'like', 'use', 'email', 'company', 'yahoo', 'cox']
+
+Top 10 words for topic #4:
+['account', 'like', 'issue', 'years', 'phone', 'work', 'pay', 'come', 'cox', 'email']
+
+Top 10 words for topic #5:
+['post', 'say', 'signal', 'time', 'cox', 'make', 'https', 'box', 'service', 'try']
+
+Top 10 words for topic #6:
+['fiber', 'area', 'think', 'company', 'cox', 'know', 'service', 'hz', 'dbmv', 'lock']
+
+Top 10 words for topic #7:
+['month', 'say', 'plan', 'home', 'network', 'internet', 'service', 'use', 'fiber', 'cox']
+
+Top 10 words for topic #8:
+['modem', 'box', 'home', 'pay', 'upgrade', 'cox', 'cap', 'time', 'speed', 'data']
+
+Top 10 words for topic #9:
+['fiber', 'coax', 'modem', 'gateway', 'unlimited', 'like', 'pay', 'internet', 'use', 'cox']
+

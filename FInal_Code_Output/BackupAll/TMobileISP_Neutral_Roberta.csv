@@ -1,0 +1,241 @@
+MsgID,MsgBody,roberta_sentiment
+'kxf327n','1984?    In 1984 nobody had internet at home.  In the early 90s people used those big online services like prodigy and AOL but they werent real internet even then.  Just a big online server.  In about 1996 people started getting dialup internet.  Thats when I got it I think.  Another big thing in the  late 80s and early 90s were BBSs.  Youd dial into a server that would have files and messages.  It was all text based.  Most that I ever dialed into used 2400 baud modems.  You know how long it takes to download a megabyte on 2400 baud? lol.    But you couldnt play many games over the internet.  Back then people played games over local area networks LANS.  They ran on the IPX protocol.  The internet was TCP protocol.  I played a lot of Duke Nukem 3d back then.  In order to play it on the internet I had to buy a program called Kali.  It emulated an IPX network over the internet.  Letting us to 1v1 matches.   I think the first games I actually played on the internet was the original halflife and unreal back in 1999.  That is one reason why the original halflife was so cool.  Coud play with random people on the internet.',Neutral
+'kxf6j9g','I watched it in Houston. No prob.',Neutral
+'kxfco2k','What are your signal metrics like when it’s connected to n71?  Also have you tried locking it to 5G SA only? If n71 is the only thing available the network might be trying to push you to 4G in order to balance the available bandwidth more',Neutral
+'kxfcyjo','I had the same and it was a quick easy call to CS. They gave me the option to apply it to my bill which I took.',Neutral
+'kxfjloo','Yes it will work using a VPS with tailscale but theres no need for most use cases when options such as tailscale exist.',Neutral
+'kxfn1io','Most newer camera systems dont use port forwarding even the ones that arent cloud-based. I havent tried one with my TMHI but I havent heard about any problems. If the cloud-based cameras can get through the others should be able to also.',Neutral
+'kxfov5h','Im using Cyberghost with no problems the past few years.   You need to setup the the city on your VPN before you open the MLB app',Neutral
+'kxfoxed','It was on MLB network last night thats why',Neutral
+'kxfq18v','Yep I’m checking out the quad mini and the pro as well. Just wanted to see if the metrics showed anything to indicate the antenna was the solution before I bought one. I’ll also be using an Orbi setup for a mesh network so I wanted to check on all this before considering a Chester cheetah or anything else',Neutral
+'kxfrqi8','Correct watched it in western NC. Late game.',Neutral
+'kxfwufo','These Gateways are not 5GUC capable. So you will not get that. On my iPhone 5GUC at one point I get over 1113 mbps download. While the Arcadyan G4AR got 480 mbps off peak hours. Be nice if the Gateways can access 5GUC but I have read other post that tower upgrades have allowed them to get speeds up to 900+ mbps download. I hope they update my Tower one day. Im still getting full 5 bars so Antenna will help a lot if your not getting full bars and improved metrics.',Neutral
+'kxfy1le','Incorrect. .  Tmobiles 5GUC branding is a connection to band 41 and/or mmWave. all TMHi 5G gateways can connect to their main “5GUC” band n41. Now phones have software that allows 5G SA aggregation while the gateways don’t + phones have higher priority data.',Neutral
+'kxfz48k','Link the post?',Neutral
+'kxfzlaf','Gosh may at Tmobile community support forum?',Neutral
+'kxg0xd4','Correct you wont as T-Mobile uses cgnat so you are sharing ip with other people',Neutral
+'kxg5e11','Yeah I always pick a city that’s not near where either team is from. But I’ll try that vpn out. ',Neutral
+'kxg6176','Typically ASUS gear has a pass through which is sometimes referred to as access point or something similar that just turns it into a wireless access point and switch.  This way it doesn’t create the double NAT scenario though you would lose any of the advanced features of the ASUS gear.',Neutral
+'kxg8fqh','I hope they reach out soon.  Desperate to get away from Xfinity.',Neutral
+'kxg8uc8','I think I found it on Reddit.  https://www.reddit.com/r/tmobileisp/comments/1bpslml/latest\_tmobile\_cell\_towers\_upgrade\_has\_moved\_my/',Neutral
+'kxg9uev','You think we ever get a update for that support',Neutral
+'kxgangy','All this considered should I try to upgrade my Nokia trashcan or stay put?',Neutral
+'kxgaq2y','In that post it wasnt the home Internet that was the issue. They upgraded his towers which improved his speeds.',Neutral
+'kxgb3vh','My g4ar on 1.00.02 🤔 Thought the g4se is 1.00.09',Neutral
+'kxgeef0','[https://imgur.com/C9PD5Mh](https://imgur.com/C9PD5Mh)   managed access to after switching to my laptop.   \[CONCERN\] the link (any device) no longer prompts you to enter your # to validate.   &#x200B  For peace of mind theres an option to transfer funds.  https://imgur.com/7WlRO8h',Neutral
+'kxggwlq','Which brand and model is that one? Can’t find it. Thought it said phonelex.',Neutral
+'kxgi09v',' like the exact one I have? Its not available on amazon at the moment Theres a bunch of five 5g boosters with a amp on amazon im waiting on my 4x4 waveform to come in tomorrow',Neutral
+'kxgkhq9','It is currently configured as NSA. No change in behaviour.  Also when I tried to switch to  fast.t-mobile.com APN the gateway went info flashing red led for 5 minutes and then came back with greeen led of 4G connectivity and it automatically added new APN with b2b.static and defaulted on it.',Neutral
+'kxgpj58','Only if you can find a use for the extra bandwidth. Depending on what band you are connecting to and the cable you use you could gain nothing.',Neutral
+'kxgxmos','No   G4SE firmware version is 1.02.13   G4AR shipping firmware is 1.00.02 (field upgraded  when towers are upgraded to 1.00.09)',Neutral
+'kxgxo9g','It can be spoofed with a VPN that does GPS spoofing or with a separate GPS spoofing app.   I use Windscribe for it and it works fine.',Neutral
+'kxgxswy','Oh ok',Neutral
+'kxh0j5e','If you use Android yeah. Unfortunately if you’re an iOS user like 60% of ‘Murica there are no GPS spoofing apps. At least— not easily.   There’s a way to do it using a jailbroken iOS device and I believe there are some third party tools that can do it on a Mac using the developer tools that are available on macOS. I’ve never messed with it though but I’m vaguely aware it’s a thing (back when the PokemonGo craze was in full swing I remember hearing about people doing that).',Neutral
+'kxhdpqg','You can always try it. Theres no commitment and there is a 15 day Test Drive where if you dont like it and cancel within 15 days theyll credit the cost so its essentially free to try.   Three things to keep in mind...  1. TMHI is on the bottom rung of the priority ladder and theres no guarantee that the gateway will connect to the same antenna or even tower as your phone. IOW your speeds with TMHI may be lower than with your phone.   2. If you game the ping may be a problem but maybe not. Gaming experience varies from subscriber to subscriber.   3. Though you dont get cut off TMHI now has a monthly deprioritization point of 1.2TB which means that if you hit 1.2TB within your service month your service will be further deprioritized than it normally is which means you could see a drastic drop in your speeds until the new monthly cycle starts. But its not a set speed just deprioritization meaning the speed would fluctuate.',Neutral
+'kxhf2ja','I have a UDM but haven’t played with teleport at all. I’ll give that a go thanks.',Neutral
+'kxhfw9g','Hi guys VS Stock antennas on the GL-iNet Spitz AX GL-X3000 in the same location how much improvement does the Waveform 4x4 QuadMini Omnidirectional antenna offer and what improvement does it offer?  &#x200B  in terms of -db gain.  Currently:RRSP: -99 to -104RSRQ: -11 to -14SINR: 10-20  Can I expect any at all gain with the QuadMini 4x4 Omnidirectional? I will be installing it inside as due to my current setup outside mounting is not an option nor is directional (due to budget and lack of option for outside mounting)',Neutral
+'kxhhg6s','Streaming rights.',Neutral
+'kxhpwjo','Honestly Im amazed at that speed with that ping. I live line of site one mile from the tower that I can see from my window. I have RSRP 80 SiNR 24 and get a ping in the 30s sometimes even in the 20s but Ive only even hit 200 down a few times. Usually Im around 120 down or less and 15 up max. I have 5Guc on my phone and the TMHI is on bands N41 and B66.',Neutral
+'kxhuhf5','It is difficult to help diagnose your issue without more information from you.  As your question is written we cannot be sure if you are talking about your TMHI modem (you mentioned moving it around) or your in home wifi.   These two are \*not\* the same the TMHI modem receives cellular signals from T-Mobile towers (this is not wifi) and provides you with wifi signal inside your home.  If you could provide the above mentioned information as well as which TMHI modem you have we can help you a lot better :)',Neutral
+'kxhv95m','For what? An extra 20mb for 500 bucks? Lol you’re good. What you really need to ask is if that’s worth it. Congestion plays a factor in tower stability too.',Neutral
+'kxi2ddk','ESPN or mlb channel.',Neutral
+'kxi3ocv','Aaah. That makes sense.',Neutral
+'kxi9766','FYI you can do your own sim swapping in the business account portal. No need to call support for that. (If you want to try to rule out a bad sim which happened to me)',Neutral
+'kxicd2i','Do you know if switching my setup to run 2.4ghz wifi I might have better results?',Neutral
+'kxicj52','You will not',Neutral
+'kxj6v65','In my home packet loss only happened when the gateway is being tested in a bad location so I just keep moving it until there is no packet loss.',Neutral
+'kxjdct2','Thats surprising. I know that port forwarding will not work on TMHI and have observed that I cant stream Plex recordings when not on the local network. My Plex server has port forwarding enabled which worked when I was using an Xfinity cable modem.  But I have no problem with live viewing or playback of my Reolink cameras - app works anywhere whether Im in my home network with TMHI or out using someone elses wi-fi or my cellular data.   Maybe someone else can explain the technical difference. Do apps like Reolink retrieve the live stream from a central server? Why wouldnt the Wyze app work like this?',Neutral
+'kxjfivr','Got mine from alibaba',Neutral
+'kxji677','Strange cause i have a ring door bell connected to my  tmhi and i can view it live away from home.also have some off brand solar powered wifi camera guess some work some dont',Neutral
+'kxjma6r','I don’t have anything except a little white square gateway. Decided to switch back to Starlink',Neutral
+'kxk66aa','I have stats like you but get 600mbps down.  My ping though is 40-50',Neutral
+'kxkf5bj','I had issues with my smart devices (lock/lighting/camera) randomly reconnecting throughout the day after switching the wifi to mesh the issue stopped.  &#x200B  If you dont mind buying refurbished [TP-Link WiFi 6 AX3000 Mesh Router System](https://imgur.com/undefined) via ebay (tp-link\_official) is on sale for $113.09  Set it up as AP-mode via ethernet and use the HINT Control app to disable wifi on the t-mobile gateway.  &#x200B  Edit as for download/upload speeds theres really no way to increase them using the provided equipment other than placing it by a window facing the closest known tower to increase the signal strength.',Neutral
+'kxkh0te','AX1800 would be more than sufficient.   I had the Asus ax88u and it was overkill for my needs as an access point switched to a wifi5 mesh cuz a relative I got it for downsized to a tiny condo.',Neutral
+'kxkjsav','squid brother where you located? Northeast?',Neutral
+'kxkl7fx','Las vegas',Neutral
+'kxkq107','If you have the cable option id go with that will be more Reliable then tmhi for me its either tmhi or Huge net(trash)',Neutral
+'kxkq9xb','No. The 1.2TB thing was implemented for unlimited service that was started on/after Jan 19th 2024. Unlimited service that began before that date is exempt from it.',Neutral
+'kxwk641','Hello I’m an MLB subscriber for their season every year and once or twice a week depending on where the games are MLB reserves the right to black out the game and give broadcast rights to other streaming services. Sometimes my Dodgers games will end up on Apple TV or Peacock or ESPN It’s frustrating but I still get to watch 90% of the games so it’s still worth it',Neutral
+'kxwmwqp','Which gateway and what are the full advanced metrics for both the 4G and the 5G tabs?',Neutral
+'kxwmzos','Yeah... sounds right.  For me I cant complain as Tmobile is my only available provider. Comcast is at my neighbors but wanted to charge me $10k to run a line 200ft to my place.  On top of similar speeds being offered for $60 vs the $40 I pay now. But I am still able to play Xbox just fine. But I cant play till the next day if theres an update. Lol.  Sucks youre having the issue though.',Neutral
+'kxwncdy','I’m in Buffalo. My service is holding at steadily at 4Mbps lmao and it’s been this way since last night. A lot of people on Down Detector (website) have reported their home internet being slow or down completely. There’s a ton of comments on there too so I assume it’s not just a WNY thing but I don’t know for sure.',Neutral
+'kxwodwm','Just an update last night MLB only blacked out the Colorado Rockies game due to my Denver IP address. My baseball team is in the clear just like last year so it seems this problem was only for the first few days of the season.',Neutral
+'kxwq79o','Which router do you have?',Neutral
+'kxwvaov','Also in Buffalo. No connection here right now and less than 1Mbps this morning',Neutral
+'kxx0bj0','[https://www.speedtest.net/result/16090575198](https://www.speedtest.net/result/16090575198) took speed test again when I got back from walking still same speeds   I dont use tmobile for my cellphone carrier for those trying to say phone tethering [https://www.speedtest.net/result/a/10021705369](https://www.speedtest.net/result/a/10021705369) I use US-Mobile which goes through Verizon because 10$/m for unlimited talk and text and 1gb of data is all i ever need on a phone.',Neutral
+'kxx1810','The acadyn that looks like the sagemon. Everything is default.',Neutral
+'kxx22yz','Just checked.. I got the update as well.. on Rev 01. I had checked just yesterday and it was on 02.',Neutral
+'kxx349p','Rev 02 or FW 02?   I don’t think Rev 02 hardware exist yet',Neutral
+'kxx3h4e','I saw a post just yesterday where someone shared their G4AR info and it showed Rev 02 with the .09 firmware.',Neutral
+'kxx5ydn','How does one know there is a firmware upgrade available? Ive never gotten notice of this in the app. My firmware version is 1.02.13.',Neutral
+'kxx73yy','Can you give us an about in this area location? Down off of this street maybe?',Neutral
+'kxx8002','Sagemcom Fast 5688W',Neutral
+'kxx8lew','Sagemcom Fast 5688W  5G: RSRQ -15 RSRP -83 SINR 40 BAND N41  LTE: CQI 14 RSSI -51 RSRQ -12 RSRP -83 SINR 17 Band B2',Neutral
+'kxx9cbz','Another member of the group posted that he got a firmware update overnight. You wont get notice from what I understand it just happens one night.',Neutral
+'kxxcv8g','First with that gateway the 5G metrics are not reported correctly to either the native app or the Hint Control app. The display will always show 5 bars due to inaccurate information on 5G. It is a firmware issue with that particular device.   4G side looks pretty good though.   It is possible that the tower you are connecting to doesnt have the backhaul. Or the gateway could use better placement in your home. Placement is made difficult with the bad 5G reporting. Can only move it around and rotate slightly in each spot you try letting it settle and run a speed test and observe the 4G metrics. A good way is do it outside first on all sides of your home to remove construction material interference.   Based on the cgi for 4G you could try getting a portable power supply and trying closer to tower and also perpendicular to see if you are on the 5G signals edge.',Neutral
+'kxxh0wz','If you want better speeds at home just get a directional antenna if youre up to modify your router',Neutral
+'kxxh6il','I actually havent gotten the update. If I have to deal with this to double my speed Ill take it',Neutral
+'kxxie9m','I would not expect radical improvements with a FW update unless there is a coincidence of a tower upgrade at the same time',Neutral
+'kxxkn05','jeeze... that is an insane speed.',Neutral
+'kxxljdw','Brand/model?',Neutral
+'kxxlu05','Which new router/gateway did you get?',Neutral
+'kxxmcgc','Im currently getting 63 down/ 7 up. This is after the newest firmware update for the G4AR. And this is only on 4g b12 band. Havent reconnected to a 5g band since the update for whatever reason',Neutral
+'kxxnmlj','I get 700mbps wired and only 250-300mbps over WiFi. I’m not unhappy with that but I would like to get 500mbps over WiFi. I’m using a Tri-Band WiFi 6 (3 pack) mesh for my WiFi but I get even coverage throughout the house.',Neutral
+'kxxpkoc','The gateways require a connection to either b2 or b66 before it will connect to 5G. There was a thread in past couple days where one of the new gateways were getting the NSA connection via b71. That was the first instance of that in close to 3 years of reading this sub.   As to why your firmware update knocked it off that is unknown. Do you know what bands it was connecting to prior to the update? Bad firmware has a history with these gateways.',Neutral
+'kxxqpki','It was all over so to say. B2b12b66 and n71/n41. I was just moving my antenna around 2 days ago though so that might be playing some part in it',Neutral
+'kxxr7u9','Were you getting the same code? 🤔 are they sending you a new one.',Neutral
+'kxxu5yz','It seems probable.   When I wanted to change from the $50/mo unlimited to the $30/mo  unlimited(with Magenta Max phones) I had to order a new unlimited line and cancel my old one.',Neutral
+'kxxvdq3','Niagara Falls/Buffalo area reports outage and upgrades that is why we all are facing the slow speed past two days. They said it will be fully restored by Friday April 5th.',Neutral
+'kxxxpig','does this apply to G4SE as well?',Neutral
+'kxxydeh','I have an iPad and sometimes my iPad would show I’m connected to WiFi but I would have no internet. I have the Nokia modem and I believe the problem had to do with the 5ghz network. I created a single 2.4ghz network (in the tmhi app) and connected my iPad to that and now my iPad never loses internet connection.',Neutral
+'kxy3a1f','Several factors determine real time download speed at any given time. Location signal strength interference weather concurrent neighborhood usage.',Neutral
+'kxy3ryt','I use a separate router hooked to the Internet box. The box router drops too often. Not really problems.',Neutral
+'kxy73xb','FYI: These are wifi speeds! I haven’t had the need or the chance really to hardwire in and do the speed test',Neutral
+'kxydss6','Can you set mtu and ttl with that router',Neutral
+'kxyemmd','I dont bother using one with it.  I only have an ethernet switch to connect some more wired clients.',Neutral
+'kxygfp4','2019 was 6 years ago.',Neutral
+'kxyhmhg','all my smart home devices use wifi 5 and Im not doing heavy downloads on my phone. everything else is thru ethernet',Neutral
+'kxyly98','You arent using a VPN service on the 7a are you such as Google Ones built in VPN? Just a thought.',Neutral
+'kxymbwo','cant say for certain cant remember the pw for the webUI but google has threads mentioning its possible',Neutral
+'kxymq88','Connection status is just like... distance to tower.',Neutral
+'kxynigy','You should call support. It shouldn’t be this big of a discrepancy between connection and speed.     It happened to me once and they fixed it remotely in 15 mins (at like midnight) by rerouting around a tower that was undergoing maintenance',Neutral
+'kxyp751','Did you ever solve this? I tried a bunch of things and am still pegged around 100 Mbps. What I did learn was that it wasn’t my router at all but the LAN speed on my gateway which seems to be the limiting factor.',Neutral
+'kxyp9lr','Rerouting around a tower? 🤔',Neutral
+'kxypacd','So my speeds have been all over the place and full of packet loss. I swapped over to 2.4ghz signal and have 0 packet loss. Know and more consistent speeds',Neutral
+'kxypajy','Are you connected to 2ghz instead of 5? mine was fuckin up for a day last week. woke the next am and it was fine.',Neutral
+'kxypqfq','how to change?',Neutral
+'kxypv0g','point still stands typically if its closer shouldnt it be a little better than 2 mbps?',Neutral
+'kxypvkt','There are two towers very close to me. It was automatically trying to connect to the closest (which was undergoing maintenance/not working) and so they overrode (“rerouted”) that automatic connection so I could connect to the second-closest tower which is working fine.     Sorry for my wordy explanation but hopefully it makes sense. It was just what I was told (and I’m not that knowledgeable on this stuff overall) so I can’t vouch for accuracy',Neutral
+'kxyqd3y','You can use the router settings to only broadcast 5ghz or your phone to only connect to 5ghz',Neutral
+'kxyqwo5','Weird I get 3 and Im like 2 miles away from a tower.',Neutral
+'kxyrbx5','Not of the tower is overly congested.',Neutral
+'kxyrvto','Not sure for G4AR but it is known issue with Sagemcom FAST 5688W Ethernet port nothing to do with your Ethernet cable.   This is well posted here and other forums.',Neutral
+'kxysf3o','If that unit is connected to both LTE and 5G which connection are the bars measuring?',Neutral
+'kxyt542','Pics?',Neutral
+'kxytd0u','https://ibb.co/sR6y7GK',Neutral
+'kxytkhn','I live on duplex house in the living room is slow. Go to 2nd floor in the bathroom get download 350 to 545 upload 20 38. When I go outside 600-780 download. 60 to 100 upload. Long Island copiague  new york',Neutral
+'kxyu95e','Maybe you should check the phones data to compare. Then call them up and let them know somethings off.',Neutral
+'kxyve1f','lol I expected to open up and see like 1.7Gbps 😭',Neutral
+'kxyw6x0','Post advanced signal metrics please.',Neutral
+'kxywrh0','You’re not wrong there.',Neutral
+'kxywt8r','OP are you living in a bigger town/city?',Neutral
+'kxyxfmz','I have a crazy idea that OP hadn’t actually called before finally did after all the comments and support fixed it so now he’s embarrassed to update lol. But please correct me if I’m wrong/update us on what they say OP…',Neutral
+'kxyytld','you need to clarify something. you didn’t buy a device that gives you 5G. you bought a device that uses 5G to give you wifi. it’s basically a hotspot from a phone. that’s built to run 24/7',Neutral
+'kxz1yyj','i agree its just a common misconception',Neutral
+'kxz2mwg','I hope this is your first month using it and you’re getting refunded before you cancel',Neutral
+'kxz6b0w','I was paying Xfinity over $72/mo for 100mbps down and around 5mbps up. Now I pay T-Mobile $30/mo and I just ran a test and got 471mbps down and 51mbps up.',Neutral
+'kxz82rf','Really??  Ive had to pay $80 for vDSL that only offered up to 3 Mbps down and 768k up in rural SC.  Ive paid $120 a month for early Comcast that only offered 128k down 3/4 of the day (and no higher than 5 Mbps for 2 hours).  My moms apartment had $60 DSL for up to 6 Mbps or Xfinity which was always over $100 and the bandwidth being shared meant there were no stable speeds.  Id gladly pay $50 for it knowing that is part of my experience with High Speed internet -- especially if its the cheapest option available that isnt dial up. (Which can still run anywhere between $20-70 a month depending on area.)',Neutral
+'kxz8p36','bars dont mean anything Cell metrics Do',Neutral
+'kxz9umg','I mean I guess it depends on the area but OP doesn’t seem happy with that speed and I wouldn’t be either.     I’m more than happy with what I get for $50 a month…but I’m currently getting 500 mbps download (a little lower than usual) which is supporting uninterrupted HD streaming Reddit on my phone and work on my laptop simultaneously.     OP can barely open Facebook. If I were OP and this was the only thing offered in my area I’d check out Starlink before committing myself to waiting minutes for a webpage to load',Neutral
+'kxzce0r','What exactly are cell metrics?',Neutral
+'kxzeu3l','They can just change the rate plan',Neutral
+'kxzez13','I got 2/3 outta 5 bars and consistently get 200-400 maps dl',Neutral
+'kxzf0pn','Did u try restarting the device?? Place it near a window??',Neutral
+'kxzfxfi','Check your app.  Mine was the same.  Massive signal no bandwidth.  Could not get the modem off of band 71 which if for distance a not for bandwidth.  I can reach three towers in a city with great coverage.  Previously getting up to 600 mbit.   Support said change your modem and after arguing I said why not. Fixed the issue.  Still think it was a firmware or provisioning issue but can’t argue that after days of support BS it was fixed by swapping the modem.',Neutral
+'kxzh2ue','I get 5g because I literally live walking distance to the tower',Neutral
+'kxzjhpu','You can look under network settings in windows. Look at adapter settings properties of network connected to configure advanced. Scroll down to speed/duplex. On Win10 I have it set to auto navigate and it works as intended at same speeds as wifi. You can try the other settings in there though.  If you are looking at speeds after your 3rd party mesh there may be something in its settings limiting it to 100mbs. If you say it happens when directly ethernet to gateway it could be either the PCs adapter cant go above 100mbs {too old} or those settings I mentioned.',Neutral
+'kxzjtgq','Strong signal low priority for bandwidth.',Neutral
+'kxzjwbl','Tmo home internet is near the bottom of the bucket for priority so if it’s a congested tower that’s totally possible.',Neutral
+'kxzk14e','Signal strength doesnt equate to speed.',Neutral
+'kxzk5ru','That is the Sagemcom gateway? If so it will always show 5 bars on that display due to firmware issues with the device reporting the 5G metrics. Posting of the advanced metrics for both the 4G tab and the 5G tab gives people a starting point to help understand what your gateway is receiving for signals. If it truly isnt the signal received based on those metrics then it could be a number of other things. Such as congestion tower maintenance tower provisioning etc.  Part of the reason why bars do not matter it doesnt show the real picture of signal received.',Neutral
+'kxzldzc','Funny they must be trying to force 4k on YouTube - which Tmo does NOT suggest.  For best streaming results keep streaming service settings at their default/AUTO resolution mode.  Ive streamed YouTube on my phone just fine with 500 Kpbs and most SD streams happen at 1 mbps.  (Hell general web usage doesnt need more than 5 mbps as most webpages load in UNDER 1 minute at 1 mbps.)  Starlink is also getting over sold so there are customers paying $150 for less than 5 mbps most of the time.  Again dial up access (56 k) averages $20-60 a month.  Its the heavier items like large downloads where you REALLY notice the lower speeds.  (Hell gaming can happen at 1 mbps as long as the latency is low and there isnt any packet loss.)',Neutral
+'kxznmdb','Sinr rsrp etc',Neutral
+'kxzp7z6','Could be as simple as hardware difference not congestion. You arent deprioritized on a continuous basis only when network is congested but the hardware difference will always be there.',Neutral
+'kxzth64','I struggle to get two bars most of the time and I hold a steady 30-40mps and steam without issue',Neutral
+'kxzyo7b','We had that problem occasionally and if you check Advanced Cellular Metric see the bands you are connected to. Ours was connecting to LTE. I learned from a user here that the issue was an external router I had plugged in to the gateway was the issue. I unplug that Netgear router (I use for mesh throughout house) from gateway and power - unplug gateway - wait 15-20 seconds - replug power to the gateway and wait until it is completely up - check advanced cellular metrics and usually ALWAYS reconnects to B66 & N41 (5G) and THEN replug power to Netgear and Netgear to gateway.  Something about an external router causes it to connect to LTE',Neutral
+'ky06kky','Which gateway do you have?  These boxes are extremely sensitive to location. A few degrees of rotation or an inch movement in any direction can cause big changes in speed.',Neutral
+'ky094ih','I thought I got that answer from T force.  I didn’t even sign up during that conversation.  I later subscribed online. Anyway as a Sprint conversion my standalone TMHI plan was on a different TMobile account than my phones and would have needed a change of ownership to merge.',Neutral
+'ky098s8','That sounds like your gateway LAN port is negotiating 100 mbps instead of 1 Gbps. You should be able to visibly verify this with at least one of these devices.',Neutral
+'ky0avyz','It’s the modem. Ask for the new white one.',Neutral
+'ky0com0','Try a VPN',Neutral
+'ky0fmfz','https://x.alibaba.com/Avb4uY?ck=pdp you can swap imei on this router',Neutral
+'ky0h2ai','Buy a better router',Neutral
+'ky0ioo6','Call tmobile',Neutral
+'ky0j3kl','They use different firmware',Neutral
+'ky0jvix','Congested',Neutral
+'ky0kbg0','You might want to try again with someone else. The first time I spoke to them about it I got the runaround and was told my my tower was down and no timeline for a fix. Second person said there were no towers down and was able to get me going again. Not saying there’s no truth to what you were told but I also wouldn’t be surprised if it was BS. I’m not exactly sure what she did but I think she moved me onto a different tower. I didn’t have to reposition the gateway which I thought I’d have to do apparently not. She did say she refreshed my connection and we also setup a new network.   I’m my opinion and from my experiences with T-mo customer service it’s hard to know what is true with them. This is far from the first time I’ve been given two different explanations. Anyway. Good luck man I hope you get it running soon. If not you should definitely ask about a courtesy credit. I’ve never had a problem getting credited for issues like this. After all you’re paying for something that isn’t working and that’s on them.',Neutral
+'ky0lrn9','In that case there was a period of time that HSI couldn’t be changed from one account to another. That’s not the case anymore',Neutral
+'ky0m6wi','When shopping around for a new router or mesh system make sure it has the newer AX Technology(wifi 6).  Make sure not to invest your hard earned money into older technology.   https://www.networkworld.com/article/965276/what-is-wi-fi-6-80211ax-and-why-do-we-need-it.html',Neutral
+'ky0n8q7','Suggestions?',Neutral
+'ky0qgep','Could try a high gain directional antenna at home. If you know where the towers are im sure it would help. Although not necessarily if there was lots of obstructions',Neutral
+'ky0r94a','If you are connected to wifi on a router connected to the modem by Ethernet you can use the Hint app via wifi to turn the modem wifi back on.',Neutral
+'ky0so7d','Yeah I have only ever gotten two maybe three bars and I get between 100 to 250 consistently.',Neutral
+'ky0uxhw','I got five bars in the front window but it wasnt close enough to my devices so I had to sacrifice a bar to get good speed. And its not great speed but it is good enough to do what I do.',Neutral
+'ky12iob','I am a good distance from the tower and with an external antenna I get 2 bars weak signal with the old grey can. I connect to n71 and get between 50-100 download and 10-20 upload. I am fairly rural lots of trees and mountains and cellular is basically the only option.',Neutral
+'ky1i3qr','It’s because I live in a major metro area and a lot more people have gotten TMHI since I first did. The tower is congested the slowdown happened in the AM when people get up and at night between 6-10. Middle of the night I get those 750 down speeds.',Neutral
+'ky1ksfy','💯',Neutral
+'ky1m5tn','I bought a 3rd party router with band lock. Got rid of my headaches',Neutral
+'ky1m8lh','It depends on what router youre using. Unlimited Home Internet uses dedicated routers not the little generic wifi hotspot ones some folks have from other plans.   If that is your situation the rep was correct. New account unlimited plan router loaned for free (return it if you end service).',Neutral
+'ky1nr4z','Gateway is indoors in a ventilated closet waveform 4x4 antenna is outside.',Neutral
+'ky1o4to','Same. But mine is mounted on a 6ft antenna tripod on the peak of my roof.',Neutral
+'ky1ogtf','👍I didnt want to punch a hole in the roof I have to make it hurricane resistant here in FL.',Neutral
+'ky1tdbl','400 that and 10 10',Neutral
+'ky1thrd','400 and 10 10',Neutral
+'ky1tjev','You need to have nat type 2 for ps5 multiplayer.  Tmobile assigns randomly and you cannot just choose this. Just use the app to reset the router and keep checking in settings on your playstation until you have type 2.',Neutral
+'ky1uyb4','Youll have Type 2 NAT. You could probably get around this with a weird setup but it would add latency. Its not worth it. Games like Destiny 2 that use a hybrid P2P system work fine on Type 2. World of Warcraft on PC is fine. 50-60ms from Florida to Chicago Datacenter.  So the only thing you can really control is the optimal placement of your gateway in your house for the best connection. The second thing you can control is having your PS5/TV in that same room. If you cant do that for some reason look into a Wifi-Extender with an Ethernet Port (turn the wi-fi off and just use the ethernet) or setup a mesh system.',Neutral
+'ky1xggj','Anyone have an idea how I can do remote play? I have no problem with multiplayer but wish I could pay a little remotely.',Neutral
+'ky1yupb','What does that mean?',Neutral
+'ky20jtt','Unplug and plug back up then move it',Neutral
+'ky21lo7','I have 4 bars my speed varies between 300 and 450 down. I have the same gateway.',Neutral
+'ky23t89','Latency is your ping you can think of it as a delay measured in ms. Can you share a screenshot of your speeds on speedtest.net? Also can you share a picture of your T-Mobile device so I can see which model it is?',Neutral
+'ky2bkk3','UniFi dream router',Neutral
+'ky2bsr7','Oh interesting! So I can have my old modem set up and (through the app?) connect TMHI to it?',Neutral
+'ky2bt5b','So people don’t understand 5G is separated into 3 different levels but all show up as 5G but have way different speeds.   First you need to make sure you are on 5Ghz wifi and not 2.4Ghz. Its set to automatically decide which to put you on but its better to separate them into two different ssids entirely.   Second and back to my 5G point make sure you are not on low band 5G. Low band is not very fast. Typically ranges from 30-70mbps. But if you are on 2.4Ghz it will be even slower. Low band channels are n71. If you look at your app and see your channel is n71 then you are on the slowest form of 5G.   What you want to be on is mid-band or best case scenario mmwave or (high band). High band (what i am on) usually is 400-600mbps with around 18-20ms of ping.',Neutral
+'ky2d4xy','That’s because they can’t “re-route” your device around a congested tower. The only thing they’re actually doing when they tell you they’re rerouting is clearing your device from the HLR and initiating a re-register onto the network.',Neutral
+'ky2d94h','Cgnat is why',Neutral
+'ky2dbu7','Cgnat is why',Neutral
+'ky2ebkj','since when could tmobiles gateways do high band?  High band is like 24Ghz or higher.  Mid-band is n41(2.5Ghz).  tmobile though categorizes n41 and mmwave as 5GUC.',Neutral
+'ky2enjf','There’s times people refer to T-Mobile’s mmwave as “high band” as a generic term but yea it’s not technically high band.',Neutral
+'ky2g508','Oh interesting. The reason I use is I live if a long narrow rowhouse built in like the 1800s and it seemed like the signal wasnt getting to the back of it too well. Ill try pulling off the extender and seeing if thats really the case!',Neutral
+'ky2h0ye','But the other comments are correct.  *Bars dont matter much its the SNR (Signal to Noise Ratio) that matters*',Neutral
+'ky2ilv7','2 questions Do you use WiFi  w roku or firestick and if so where are they in your house in relation to the TMO 5G Gateway re walls chimneys that might degrade the WiFi signal.  If you have a laptop & plug it in to the 5G Gateway directly.. the run Ooklas Speed Test what Speeds do you see?',Neutral
+'ky2jmt4','By switching it to the u.fl sma adapter it might work but dont expect it to. You are switching it from a small compact antenna to an open circuit. Is not connected to anything but the wires that make up the cable',Neutral
+'ky2l9ax','Run a speed test',Neutral
+'ky2le19','tmobiles mmwave/highband is n258(24Ghz) n260(39Ghz) n261(28Ghz).',Neutral
+'ky2lh4a','On my iPhone with T-Mobile I get one and a half gigs',Neutral
+'ky2m61n','No',Neutral
+'ky2ndi5','If you have a Synology NAS look into setting up Cloudflared in a Docker container on your NAS and setting up a Cloudflare tunnel to connect to it that way.  That gives you IPv4 and IPv6 access to your NAS through a Cloudflare tunnel regardless of port forwarding (which you cant do on TMHI anyway).  Here is some guidance on that solution:   https://www.crosstalksolutions.com/cloudflare-tunnel-easy-setup/',Neutral
+'ky2ntfs','No I have a wln202',Neutral
+'ky2pre4','how much they charge you to keep it?',Neutral
+'ky2t3ln','Yeah it might even be creating another layer of NAT which could be why you can’t game also do you have a screenshot of your speeds? In addition do you have a picture of which T-Mobile device you have or what model it is it would help me troubleshoot your connection further',Neutral
+'ky2uxms','I can totally get one when Im home! And then I can figure out how to post it here lol (again technologically illiterate)',Neutral
+'ky2vy91','VPN?',Neutral
+'ky2zld0','Put the gateway on a long extension cord so you dont have to unplug and replug then try it in different areas of your house. Remember higher bars dont always equate to higher speed.  I get two bars and 180/60Mbps.',Neutral
+'ky2zvjn','Can I get a link? I’d like to further investigate that',Neutral
+'ky2zxyj','Its a galaxy z fold 3 and yeah they are using the website instead of the app so what?',Neutral
+'ky31d1t','Get new modem or move modem near window as u suppose to signal strength doesnt matter',Neutral
+'ky31tug','Signal strength =/= speed. ',Neutral
+'ky3215j','Go to the app and make 2 difr  networks a 5 g and 2.5',Neutral
+'ky32jaf','Go into the home internet app and split the 2.4ghz and 5ghz bands. Possible Sim card defect',Neutral
+'ky37z2l','I think it was around 200',Neutral
+'ky38qkr','😂',Neutral
+'ky39qw2','If you got PayPal g&s Ill pay the 30$ I need one to put antenna leads on so I dont damage the leased one.',Neutral
+'ky3c587','Other people use the tower so it was probably a lot of traffic at that time',Neutral
+'ky3g5nz','Buy one on ebay',Neutral
+'ky3icsw','You have to get a business account. Then $3 for a static ip',Neutral
+'ky3ks7z','3 bars and 350mbps down.',Neutral
+'ky3lls8','Just posted a photo',Neutral
+'ky3may5','Its a common way T-Mobile handles changes like this. It seems to be completely random how they will manage things like this. In some other cases they will just send you a new SIM card to swap into your current gateway. But them completely doing a new line for things is pretty common.',Neutral
+'ky3n734','The speed differences you are seeing is normal. Phone plans on T-Mobiles network are at the higher/highest priorities on their towers while the home internet service is at the lower two tiers of priority. Home internet is using left-over bandwidth on the tower but is deprioritized behind other traffic.   As for the speed issues between reboots that is also common with T-Mobiles stock gateways. A common cause of this is due to overheating as well as just generally poor firmware. Suggestions for that would be to add a fan to your gateway (you can search for examples of doing this non-destuctively and/or with 3D printed mounting etc.) and to setup a means to automatically reboot the gateway at some kind of interval. (Some do nightly others do weekly and so on.) For that you can use a smart outlet to just kill its power at a set time or if you understand how to work with API endpoints it is possible to setup a script to reboot the gateway more properly but will require something on your network to be online to do the reboot request such as a Raspberry Pi or something similar if you dont keep a computer on 24/7.',Neutral
+'ky3ncee','You can just contact T-Mobile to remove the blocks they do on the business lines.',Neutral
+'ky3ng5t','Your probably logged in at 2.4ghz goto to your settings forget network and relog back on and check that you have connected at 5ghz.',Neutral
+'ky3nvor','T-Mobile 5G G4AR & G4SE It hasnt actually dropped at all today on the Pixels despite me not changing anything. Which is even weirder imo.',Neutral
+'ky3o5e7','its near a window on a 6th floor',Neutral
+'ky3pd8t','The website for the newer gateways still only show up to .02 in regards to firmware info.',Neutral
+'ky3qktr','Any sort of electronics near it? Your signal power is very strong. Im almost tempted to tell you to get it away from the glass as it could have a low e coating which butchers RF.',Neutral
+'ky3r7gf','Why bad?',Neutral
+'ky3s7uu','Cgnat what',Neutral
+'ky3t1b6','Is it a low-e (energy efficient) window?',Neutral
+'ky3uo3a','Yeah I cant believe youd pay $50 for those speeds either. As far as watching YouTube thats not a big loss as there really isnt much worth watching there anyway. Go ahead and bite the bullet and get cable internet for $200. You wont regret it!',Neutral
+'ky3uoz4','Doesnt matter if it says Excellent that doesnt mean youll get fast Speeds its very Area specific and placement of the Gateway is key.',Neutral
+'ky3y0yp','Location dependent along with hardware you get from them. Might call their support for help. I’m getting 154/68.5 Mbps right now during peak hours.',Neutral
+'ky40f0y','https://www.a10networks.com/glossary/what-is-carrier-grade-nat-cgn-cgnat/',Neutral
+'ky40zv6','Flip it upside down',Neutral
+'ky44sc4','Just because its not working well for you doesnt mean this is the same for EVERYONE.  LOTS OF PEOPLE ALREADY RESPONDED WITH GOOD THINGS TO SAY ABOUT HINT.  It works well for me in SEATTLE with 300 down consistently.  Your area may not have been upgraded yet and/or is insanely congested.',Neutral
+'ky455oa','Cancel and move on. What do you want us to say? Not being rude.',Neutral
+'ky47jdp','Same. I ordered it to try out and setup a return the same day I received it. I had 3 to 4 bars and was getting less than 20 Mbps.',Neutral
+'ky47l21','Im a little over 3 miles away from my tower.  I have 4 bars.    Only one tower in my area.  I live in a mountainous region with lots of hills and valleys and trees.  So the coverage is really hit or miss.  I get a pretty nice signal and average about 200mbit on TMHI.  But my neighbor cant get a 5g signal at all.  My house is just in the perfect spot in relation to the tower.   It didnt use to matter as much.  2g and 3g signals really went far and bounced around.  But 4g and 5g have greater speed and a much much worse coverage area',Neutral
+'ky47l33','Be aware of what? A random screenshot with 0 information? Sure ok.',Neutral
+'ky4cxqx','Im getting like 300\60 to like 450\80',Neutral
+'ky4cxtg','Are you using your own router behind the gateway? If so could it be a MTU setting mismatch? I read about that being an issue with Verizon when using your own router. Just thought I’d call it out in case that’s relevant at all. Good luck :(',Neutral
+'ky4jcqw','*Your results may vary  I’m at 350/20. Works fine for two people working from home full time. The cgnat is annoying but better than our alternative (Starlink or 10mbps DSL).',Neutral

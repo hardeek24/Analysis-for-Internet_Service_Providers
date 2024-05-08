@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+work
+say
+plan
+speed
+devices
+connection
+email
+pod
+issue
+try
+
+Top 10 words for topic #0:
+['work', 'say', 'plan', 'speed', 'devices', 'connection', 'email', 'pod', 'issue', 'try']
+
+Top 10 words for topic #1:
+['latency', 'quantum', 'experience', 'use', 'weeks', 'know', 'work', 'problem', 'fix', 'issue']
+
+Top 10 words for topic #2:
+['thank', 'days', 'pod', 'terrible', 'quantum', 'day', 'router', 'internet', 'like', 'fiber']
+
+Top 10 words for topic #3:
+['fiber', 'start', 'say', 'use', 'customer', 'modem', 'centurylink', 'router', 'service', 'work']
+
+Top 10 words for topic #4:
+['theyre', 'ont', 'need', 'isp', 'look', 'cancel', 'try', 'like', 'centurylink', 'wifi']
+
+Top 10 words for topic #5:
+['connect', 'im', 'send', 'address', 'doesnt', 'dont', 'work', 'service', 'use', 'router']
+
+Top 10 words for topic #6:
+['worst', 'youre', 'speed', 'centurylink', 'account', 'use', 'ask', 'say', 'pod', 'issue']
+
+Top 10 words for topic #7:
+['month', 'say', 'internet', 'issue', 'think', 'pod', 'pay', 'wifi', 'thing', 'speed']
+
+Top 10 words for topic #8:
+['work', 'phone', 'answer', 'latency', 'tech', 'fix', 'increase', 'time', 'suck', 'problem']
+
+Top 10 words for topic #9:
+['data', 'dont', 'pay', 'voice', 'equipment', 'switch', 'support', 'modem', 'issue', 'centurylink']
+

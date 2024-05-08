@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+try
+market
+house
+dont
+sun
+like
+phoenix
+make
+city
+people
+
+Top 10 words for topic #0:
+['try', 'market', 'house', 'dont', 'sun', 'like', 'phoenix', 'make', 'city', 'people']
+
+Top 10 words for topic #1:
+['days', 'say', 'like', 'car', 'account', 'drive', 'use', 'old', 'know', 'time']
+
+Top 10 words for topic #2:
+['turn', 'make', 'time', 'floor', 'want', 'look', 'day', 'home', 'tile', 'house']
+
+Top 10 words for topic #3:
+['past', 'concern', 'youre', 'search', 'thread', 'subreddit', 'ask', 'question', 'post', 'https']
+
+Top 10 words for topic #4:
+['make', 'time', 'year', 'gas', 'think', 'know', 'sure', 'work', 'pay', 'say']
+
+Top 10 words for topic #5:
+['look', 'school', 'lol', 'valley', 'walk', 'lot', 'live', 'phoenix', 'think', 'like']
+
+Top 10 words for topic #6:
+['sub', 'relate', 'https', 'remove', 'need', 'similar', 'phoenix', 'rule', 'thank', 'post']
+
+Top 10 words for topic #7:
+['run', 'house', 'place', 'fan', 'ago', 'try', 'years', 'windows', 'ac', 'use']
+
+Top 10 words for topic #8:
+['store', 'say', 'dog', 'tempe', 'want', 'road', 'line', 'come', 'im', 'water']
+
+Top 10 words for topic #9:
+['make', 'inside', 'drink', 'stay', 'time', 'hot', 'summer', 'water', 'heat', 'like']
+

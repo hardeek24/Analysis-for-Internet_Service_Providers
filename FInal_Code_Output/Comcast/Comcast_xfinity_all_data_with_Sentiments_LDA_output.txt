@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+concern
+support
+contact
+time
+post
+xfinity
+receive
+team
+https
+official
+
+Top 10 words for topic #0:
+['concern', 'support', 'contact', 'time', 'post', 'xfinity', 'receive', 'team', 'https', 'official']
+
+Top 10 words for topic #1:
+['tv', 'customer', 'modem', 'line', 'cable', 'money', 'internet', 'xfinity', 'month', 'service']
+
+Top 10 words for topic #2:
+['month', 'change', 'game', 'download', 'use', 'usage', 'cap', 'pay', 'unlimited', 'data']
+
+Top 10 words for topic #3:
+['stream', 'like', 'game', 'https', 'email', 'thank', 'upload', 'speed', 'plan', 'xfinity']
+
+Top 10 words for topic #4:
+['rule', 'contact', 'inappropriate', 'profanity', 'moderators', 'understand', 'users', 'remove', 'comment', 'https']
+
+Top 10 words for topic #5:
+['reach', 'look', 'thank', 'message', 'account', 'https', 'address', 'service', 'modmail', 'send']
+
+Top 10 words for topic #6:
+['plan', 'xfinity', 'cancel', 'customers', 'pay', 'internet', 'increase', 'comcast', 'phone', 'price']
+
+Top 10 words for topic #7:
+['mods', 'policy', 'solve', 'close', 'mark', 'experience', 'new', 'create', 'issue', 'post']
+
+Top 10 words for topic #8:
+['change', 'account', 'make', 'able', 'mobile', 'link', 'reach', 'time', 'want', 'xfinity']
+
+Top 10 words for topic #9:
+['work', 'use', 'devices', 'modem', 'router', 'network', 'gateway', 'connect', 'issue', 'try']
+

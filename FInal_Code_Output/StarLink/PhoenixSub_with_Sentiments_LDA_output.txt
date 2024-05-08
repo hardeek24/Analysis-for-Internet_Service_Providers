@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+time
+best
+walk
+traffic
+way
+right
+valley
+food
+park
+lot
+
+Top 10 words for topic #0:
+['time', 'best', 'walk', 'traffic', 'way', 'right', 'valley', 'food', 'park', 'lot']
+
+Top 10 words for topic #1:
+['rent', 'sun', 'home', 'time', 'make', 'city', 'use', 'live', 'day', 'house']
+
+Top 10 words for topic #2:
+['daily', 'search', 'welcome', 'past', 'youre', 'https', 'thread', 'post', 'question', 'ask']
+
+Top 10 words for topic #3:
+['look', 'love', 'say', 'make', 'like', 'arizona', 'lol', 'state', 'phoenix', 'thank']
+
+Top 10 words for topic #4:
+['light', 'use', 'make', 'place', 'school', 'love', 'think', 'look', 'tile', 'like']
+
+Top 10 words for topic #5:
+['say', 'im', 'dont', 'good', 'work', 'think', 'time', 'people', 'know', 'like']
+
+Top 10 words for topic #6:
+['question', 'concern', 'read', 'subreddit', 'comment', 'rule', 'server', 'post', 'people', 'https']
+
+Top 10 words for topic #7:
+['drink', 'air', 'like', 'outside', 'stay', 'use', 'car', 'ac', 'phoenix', 'heat']
+
+Top 10 words for topic #8:
+['lot', 'water', 'really', 'years', 'walk', 'live', 'summer', 'dog', 'like', 'people']
+
+Top 10 words for topic #9:
+['make', 'good', 'money', 'want', 'time', 'work', 'need', 'like', 'job', 'pay']
+

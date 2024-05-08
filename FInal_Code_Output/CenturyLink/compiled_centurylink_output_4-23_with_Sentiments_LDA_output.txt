@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+issue
+vlan
+port
+dont
+need
+mode
+bridge
+work
+router
+use
+
+Top 10 words for topic #0:
+['issue', 'vlan', 'port', 'dont', 'need', 'mode', 'bridge', 'work', 'router', 'use']
+
+Top 10 words for topic #1:
+['try', 'force', 'end', 'want', 'area', 'transition', 'email', 'switch', 'quantum', 'cl']
+
+Top 10 words for topic #2:
+['light', 'like', 'fix', 'dont', 'ont', 'work', 'fiber', 'internet', 'issue', 'house']
+
+Top 10 words for topic #3:
+['connect', 'loss', 'ping', 'say', 'cable', 'isp', 'network', 'like', 'ethernet', 'wifi']
+
+Top 10 words for topic #4:
+['price', 'link', 'https', 'months', 'light', 'service', 'say', 'fiber', 'start', 'modem']
+
+Top 10 words for topic #5:
+['link', 'settings', 'know', 'issue', 'fix', 'try', 'use', 'router', 'doesnt', 'speed']
+
+Top 10 words for topic #6:
+['work', 'time', 'tell', 'issue', 'price', 'centurylink', 'speed', 'service', 'quantum', 'fiber']
+
+Top 10 words for topic #7:
+['quantum', 'connection', 'network', 'need', 'fiber', 'hardware', 'like', 'ont', 'use', 'router']
+
+Top 10 words for topic #8:
+['try', 'drop', 'throughput', 'work', 'wifi', 'issue', 'test', 'wire', 'speed', 'pod']
+
+Top 10 words for topic #9:
+['come', 'end', 'switch', 'good', 'fix', 'service', 'thank', 'tech', 'look', 'issue']
+

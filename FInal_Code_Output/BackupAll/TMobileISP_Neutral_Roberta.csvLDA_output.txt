@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+mesh
+mbps
+app
+port
+tmhi
+ethernet
+like
+using
+use
+wifi
+
+Top 10 words for topic #0:
+['mesh', 'mbps', 'app', 'port', 'tmhi', 'ethernet', 'like', 'using', 'use', 'wifi']
+
+Top 10 words for topic #1:
+['phone', 'speeds', 'tmhi', 'spoofing', 'gps', 'cancel', 'using', 'mobile', 'like', 'use']
+
+Top 10 words for topic #2:
+['wifi', 'signal', '10', 'n41', 'home', 'modem', 'band', 'tmhi', 'tower', '5g']
+
+Top 10 words for topic #3:
+['www', 'speeds', 'https', 'try', 'speedtest', 'night', 'use', 'net', 'vpn', 'just']
+
+Top 10 words for topic #4:
+['point', 'network', 'unlimited', 'new', 'wifi', 'just', 'speed', 'connected', 'gateway', 'settings']
+
+Top 10 words for topic #5:
+['09', 'imgur', 'download', 'com', '00', 'op', 'g4ar', 'https', 'firmware', '02']
+
+Top 10 words for topic #6:
+['run', 'need', 'signal', 'speed', 'connect', 'com', '5g', 'update', 'dont', 'tower']
+
+Top 10 words for topic #7:
+['sure', 'different', 'setup', 'tower', 'got', 'just', 'band', '5g', 'gateway', 'router']
+
+Top 10 words for topic #8:
+['cgnat', 'support', 'people', 'packet', 'band', 'loss', 'update', 'tower', 'metrics', 'signal']
+
+Top 10 words for topic #9:
+['like', 'big', 'time', 'im', 'home', 'mbps', 'just', 'area', 'people', 'internet']
+

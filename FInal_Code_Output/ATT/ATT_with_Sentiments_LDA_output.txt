@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+imessage
+use
+data
+work
+port
+let
+line
+phone
+know
+number
+
+Top 10 words for topic #0:
+['imessage', 'use', 'data', 'work', 'port', 'let', 'line', 'phone', 'know', 'number']
+
+Top 10 words for topic #1:
+['change', 'sim', 'try', 'people', 'card', 'https', 'ask', 'say', 'pay', 'credit']
+
+Top 10 words for topic #2:
+['phone', 'transfer', 'issue', 'care', 'send', 'qualify', 'iphone', 'port', 'use', 'number']
+
+Top 10 words for topic #3:
+['line', 'cancel', 'device', 'credit', 'number', 'pay', 'att', 'account', 'new', 'phone']
+
+Top 10 words for topic #4:
+['credit', 'qci', 'business', 'unlimited', 'cancel', 'lol', 'say', 'like', 'line', 'plan']
+
+Top 10 words for topic #5:
+['thank', 'time', 'tell', 'phone', 'say', 'use', 'work', 'cancel', 'line', 'store']
+
+Top 10 words for topic #6:
+['know', 'customers', 'cancel', 'like', 'customer', 'app', 'use', 'chat', 'unlock', 'phone']
+
+Top 10 words for topic #7:
+['like', 'customers', 'id', 'email', 'info', 'need', 'verizon', 'data', 'service', 'say']
+
+Top 10 words for topic #8:
+['try', 'like', 'time', 'year', 'service', 'say', 'phone', 'use', 'cancel', 'line']
+
+Top 10 words for topic #9:
+['store', 'happen', 'remove', 'read', 'device', 'need', 'deal', 'time', 'post', 'work']
+

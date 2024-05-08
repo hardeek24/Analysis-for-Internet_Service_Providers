@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+time
+tell
+people
+fee
+pay
+card
+say
+use
+like
+fuck
+
+Top 10 words for topic #0:
+['time', 'tell', 'people', 'fee', 'pay', 'card', 'say', 'use', 'like', 'fuck']
+
+Top 10 words for topic #1:
+['tell', 'like', 'make', 'wont', 'phone', 'house', 'say', 'way', 'hate', 'right']
+
+Top 10 words for topic #2:
+['know', 'worse', 'want', 'fuck', 'probably', 'live', 'na', 'work', 'suck', 'people']
+
+Top 10 words for topic #3:
+['like', 'way', 'home', 'work', 'bad', 'time', 'didnt', 'make', 'think', 'drive']
+
+Top 10 words for topic #4:
+['want', 'walk', 'place', 'know', 'look', 'live', 'dont', 'people', 'dog', 'like']
+
+Top 10 words for topic #5:
+['make', 'read', 'remove', 'dont', 'feel', 'post', 'rule', 'comment', 'https', 'like']
+
+Top 10 words for topic #6:
+['work', 'awful', 'feel', 'allergies', 'time', 'sorry', 'phoenix', 'like', 'people', 'bad']
+
+Top 10 words for topic #7:
+['work', 'worst', 'years', 'run', 'make', 'time', 'job', 'think', 'like', 'lot']
+
+Top 10 words for topic #8:
+['minutes', 'stop', 'money', 'mean', 'leave', 'time', 'place', 'car', 'make', 'like']
+
+Top 10 words for topic #9:
+['terrible', 'think', 'drive', 'right', 'happen', 'know', 'vote', 'want', 'stay', 'people']
+

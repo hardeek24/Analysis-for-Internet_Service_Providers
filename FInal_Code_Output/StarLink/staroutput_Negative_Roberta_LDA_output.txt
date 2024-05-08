@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+fail
+face
+happen
+say
+orbi
+service
+satellite
+use
+starlink
+issue
+
+Top 10 words for topic #0:
+['fail', 'face', 'happen', 'say', 'orbi', 'service', 'satellite', 'use', 'starlink', 'issue']
+
+Top 10 words for topic #1:
+['allow', 'eclipse', 'infrastructure', 'thousands', 'overcome', 'areas', 'wont', 'people', 'dont', 'know']
+
+Top 10 words for topic #2:
+['tell', 'local', 'really', 'image', 'month', 'thing', 'big', 'like', 'pay', 'starlink']
+
+Top 10 words for topic #3:
+['unstable', 'consider', 'cable', 'remove', 'make', 'power', 'service', 'outage', 'like', 'need']
+
+Top 10 words for topic #4:
+['starlink', 'land', 'infrastructure', 'power', 'op', 'comment', 'world', 'think', 'completely', 'post']
+
+Top 10 words for topic #5:
+['know', 'starlink', 'latency', 'service', 'bad', 'time', 'say', 'test', 'im', 'cable']
+
+Top 10 words for topic #6:
+['work', 'mode', 'unmanaged', 'bridge', 'plug', 'connect', 'reboot', 'switch', 'orbi', 'sl']
+
+Top 10 words for topic #7:
+['wont', 'slow', 'like', 'clearly', 'globaltv', 'service', 'stupid', 'starlink', 'stack', 'access']
+
+Top 10 words for topic #8:
+['weeks', 'things', 'soon', 'ago', 'like', 'expensive', 'didnt', 'hop', 'doesnt', 'update']
+
+Top 10 words for topic #9:
+['network', 'connect', 'let', 'drop', 'second', 'dont', 'like', 'allow', 'router', 'connection']
+

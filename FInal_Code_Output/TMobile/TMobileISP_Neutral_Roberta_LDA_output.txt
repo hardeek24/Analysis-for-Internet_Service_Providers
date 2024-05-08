@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+consistently
+download
+ip
+signal
+latency
+speed
+static
+im
+ping
+mbps
+
+Top 10 words for topic #0:
+['consistently', 'download', 'ip', 'signal', 'latency', 'speed', 'static', 'im', 'ping', 'mbps']
+
+Top 10 words for topic #1:
+['change', 'like', 'play', 'try', 'internet', 'gateway', 'use', 'different', 'bar', 'look']
+
+Top 10 words for topic #2:
+['signal', 'like', 'live', 'area', 'im', 'tmhi', 'time', 'use', 'tower', 'speed']
+
+Top 10 words for topic #3:
+['speed', 'gbps', 'antenna', 'use', 'network', 'sagemcom', 'wifi', 'pixel', 'settings', 'connect']
+
+Top 10 words for topic #4:
+['advance', 'gateways', 'say', 'test', 'band', 'speed', 'gateway', 'connect', 'https', 'try']
+
+Top 10 words for topic #5:
+['subreddit', 'action', 'bot', 'automatically', 'days', 'post', 'karma', 'old', 'comment', 'account']
+
+Top 10 words for topic #6:
+['speed', 'signal', 'wifi', 'home', 'know', 'use', 'try', 'gateway', 'tower', 'issue']
+
+Top 10 words for topic #7:
+['game', 'router', 'sim', 'make', 'use', 'new', 'app', 'band', 'work', 'like']
+
+Top 10 words for topic #8:
+['hours', 'internet', 'right', 'fix', 'device', 'service', 'support', 'help', 'think', 'speed']
+
+Top 10 words for topic #9:
+['set', 'modem', 'better', 'home', 'work', 'mbps', 'connect', 'router', 'wifi', 'use']
+

@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+internet
+cox
+great
+upload
+tower
+fiber
+area
+better
+good
+speed
+
+Top 10 words for topic #0:
+['internet', 'cox', 'great', 'upload', 'tower', 'fiber', 'area', 'better', 'good', 'speed']
+
+Top 10 words for topic #1:
+['valley', 'read', 'talk', 'nice', 'subreddit', 'comment', 'place', 'server', 'people', 'https']
+
+Top 10 words for topic #2:
+['look', 'use', 'floor', 'make', 'month', 'work', 'data', 'unlimited', 'love', 'great']
+
+Top 10 words for topic #3:
+['best', 'work', 'like', 'phoenix', 'food', 'people', 'really', 'good', 'lot', 'great']
+
+Top 10 words for topic #4:
+['like', 'months', 'work', 'job', 'make', 'internet', 'service', 'issue', 'good', 'love']
+
+Top 10 words for topic #5:
+['account', 'look', 'address', 'modmail', 'reach', 'send', 'service', 'happy', 'https', 'thank']
+
+Top 10 words for topic #6:
+['know', 'better', 'work', 'way', 'people', 'new', 'think', 'like', 'good', 'look']
+
+Top 10 words for topic #7:
+['port', 'really', 'pod', 'use', 'need', 'switch', 'great', 'work', 'router', 'better']
+
+Top 10 words for topic #8:
+['friends', 'lot', 'make', 'pretty', 'love', 'tile', 'people', 'great', 'like', 'good']
+
+Top 10 words for topic #9:
+['make', 'best', 'heat', 'cool', 'place', 'great', 'summer', 'like', 'use', 'good']
+

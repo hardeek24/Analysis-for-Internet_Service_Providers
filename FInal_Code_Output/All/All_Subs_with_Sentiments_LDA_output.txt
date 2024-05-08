@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+look
+light
+bar
+like
+say
+people
+think
+love
+tile
+time
+
+Top 10 words for topic #0:
+['look', 'light', 'bar', 'like', 'say', 'people', 'think', 'love', 'tile', 'time']
+
+Top 10 words for topic #1:
+['say', 'dont', 'try', 'people', 'look', 'work', 'make', 'account', 'know', 'like']
+
+Top 10 words for topic #2:
+['need', 'wifi', 'fiber', 'modem', 'internet', 'issue', 'work', 'router', 'speed', 'use']
+
+Top 10 words for topic #3:
+['automatically', 'place', 'nice', 'read', 'question', 'contact', 'comment', 'server', 'people', 'https']
+
+Top 10 words for topic #4:
+['end', 'understand', 'pay', 'tax', 'work', 'company', 'use', 'phoenix', 'card', 'say']
+
+Top 10 words for topic #5:
+['mobile', 'month', 'want', 'line', 'data', 'price', 'pay', 'phone', 'plan', 'service']
+
+Top 10 words for topic #6:
+['rule', 'account', 'service', 'remove', 'address', 'modmail', 'send', 'thank', 'https', 'post']
+
+Top 10 words for topic #7:
+['summer', 'car', 'time', 'people', 'phoenix', 'lot', 'water', 'use', 'live', 'like']
+
+Top 10 words for topic #8:
+['support', 'time', 'contact', 'xfinity', 'issue', 'receive', 'team', 'official', 'https', 'post']
+
+Top 10 words for topic #9:
+['sure', 'right', 'open', 'house', 'buy', 'like', 'pretty', 'think', 'lol', 'good']
+

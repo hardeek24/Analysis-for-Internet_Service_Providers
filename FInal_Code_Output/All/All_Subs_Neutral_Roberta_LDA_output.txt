@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+heat
+summer
+place
+people
+lot
+water
+time
+live
+house
+like
+
+Top 10 words for topic #0:
+['heat', 'summer', 'place', 'people', 'lot', 'water', 'time', 'live', 'house', 'like']
+
+Top 10 words for topic #1:
+['wire', 'like', 'pod', 'router', 'test', 'connect', 'use', 'speed', 'network', 'wifi']
+
+Top 10 words for topic #2:
+['make', 'use', 'pay', 'need', 'phone', 'time', 'account', 'service', 'say', 'know']
+
+Top 10 words for topic #3:
+['request', 'hours', 'contact', 'support', 'receive', 'time', 'team', 'xfinity', 'official', 'https']
+
+Top 10 words for topic #4:
+['free', 'tile', 'read', 'thank', 'feel', 'remove', 'look', 'rule', 'post', 'https']
+
+Top 10 words for topic #5:
+['im', 'filter', 'address', 'need', 'look', 'think', 'link', 'people', 'send', 'want']
+
+Top 10 words for topic #6:
+['day', 'bar', 'like', 'people', 'https', 'think', 'line', 'lol', 'school', 'phoenix']
+
+Top 10 words for topic #7:
+['receive', 'community', 'flair', 'close', 'mark', 'create', 'experience', 'issue', 'new', 'post']
+
+Top 10 words for topic #8:
+['youre', 'subreddit', 'try', 'post', 'use', 'router', 'thread', 'ask', 'https', 'question']
+
+Top 10 words for topic #9:
+['try', 'work', 'price', 'data', 'phone', 'think', 'pay', 'speed', 'plan', 'use']
+

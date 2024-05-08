@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+forward
+connection
+cable
+free
+stream
+comcast
+good
+team
+day
+tv
+
+Top 10 words for topic #0:
+['forward', 'connection', 'cable', 'free', 'stream', 'comcast', 'good', 'team', 'day', 'tv']
+
+Top 10 words for topic #1:
+['confirm', 'visit', 'appreciate', 'technician', 'speed', 'new', 'area', 'modmail', 'love', 'upgrade']
+
+Top 10 words for topic #2:
+['gateway', 'complete', 'work', 'use', 'customers', 'new', 'month', 'great', 'data', 'unlimited']
+
+Top 10 words for topic #3:
+['weekend', 'able', 'help', 'modmail', 'xfinity', 'reddit', 'happy', 'team', 'reach', 'thank']
+
+Top 10 words for topic #4:
+['want', 'use', 'mobile', 'need', 'work', 'data', 'service', 'app', 'usage', 'xfinity']
+
+Top 10 words for topic #5:
+['helpful', 'notice', 'understand', 'home', 'post', 'thank', 'connect', 'network', 'issue', 'devices']
+
+Top 10 words for topic #6:
+['plan', 'good', 'list', 'record', 'comcast', 'xfinity', 'faster', 'internet', 'upload', 'speed']
+
+Top 10 words for topic #7:
+['look', 'thank', 'use', 'new', 'https', 'youre', 'issue', 'work', 'good', 'plan']
+
+Top 10 words for topic #8:
+['happy', 'thank', 'account', 'message', 'send', 'address', 'look', 'modmail', 'service', 'https']
+
+Top 10 words for topic #9:
+['assist', 'happy', 'service', 'https', 'thank', 'address', 'modmail', 'account', 'send', 'reach']
+

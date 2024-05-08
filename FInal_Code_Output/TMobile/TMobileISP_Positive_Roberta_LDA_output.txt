@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+remote
+special
+make
+play
+fine
+need
+work
+setup
+use
+like
+
+Top 10 words for topic #0:
+['remote', 'special', 'make', 'play', 'fine', 'need', 'work', 'setup', 'use', 'like']
+
+Top 10 words for topic #1:
+['traffic', 'throttle', 'death', 'excellent', 'experience', 'want', 'work', 'antenna', 'say', 'great']
+
+Top 10 words for topic #2:
+['far', 'speed', 'lol', 'location', 'return', 'better', 'work', 'good', 'think', 'tower']
+
+Top 10 words for topic #3:
+['reboot', 'normal', 'today', 'ago', 'closest', 'reason', 'way', 'point', 'good', 'better']
+
+Top 10 words for topic #4:
+['awesome', 'soon', 'upload', 'congest', 'router', 'download', 'bar', 'speed', 'tower', 'mbps']
+
+Top 10 words for topic #5:
+['google', 'come', 'wifi', 'ive', 'work', 'gateway', 'home', 'use', 'great', 'router']
+
+Top 10 words for topic #6:
+['happy', 'bar', 'doesnt', 'hint', 'try', 'mean', 'area', 'speed', 'work', 'good']
+
+Top 10 words for topic #7:
+['glorious', 'shit', 'verizon', 'wifi', 'fine', 'happy', 'work', 'im', 'gateway', 'good']
+
+Top 10 words for topic #8:
+['phone', 'pay', 'pretty', 'live', 'way', 'better', 'tower', 'band', 'speed', 'good']
+
+Top 10 words for topic #9:
+['support', 'really', 'say', 'different', 'pay', 'phone', 'tmhi', 'internet', 'better', 'speed']
+

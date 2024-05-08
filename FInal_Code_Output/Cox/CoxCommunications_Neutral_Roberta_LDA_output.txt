@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+offer
+internet
+new
+data
+issue
+pay
+customer
+price
+service
+cox
+
+Top 10 words for topic #0:
+['offer', 'internet', 'new', 'data', 'issue', 'pay', 'customer', 'price', 'service', 'cox']
+
+Top 10 words for topic #1:
+['note', 'app', 'try', 'mail', 'cox', 'https', 'use', 'yahoo', 'email', 'account']
+
+Top 10 words for topic #2:
+['signal', 'power', 'need', 'light', 'router', 'cox', 'hz', 'dbmv', 'lock', 'modem']
+
+Top 10 words for topic #3:
+['box', 'wireless', 'device', 'try', 'work', 'internet', 'password', 'change', 'wifi', 'cox']
+
+Top 10 words for topic #4:
+['service', 'mail', 'pay', 'month', 'gmail', 'yahoo', 'address', 'email', 'use', 'cox']
+
+Top 10 words for topic #5:
+['look', 'tech', 'speed', 'area', 'use', 'like', 'cox', 'internet', 'need', 'box']
+
+Top 10 words for topic #6:
+['fiber', 'pay', 'say', 'discount', 'signal', 'modem', 'plan', 'speed', 'cox', 'need']
+
+Top 10 words for topic #7:
+['unlimited', 'time', 'dont', 'throttle', 'like', 'speed', 'charge', 'data', 'use', 'cox']
+
+Top 10 words for topic #8:
+['know', 'cox', 'run', 'modem', 'cable', 'phone', 'internet', 'home', 'use', 'fiber']
+
+Top 10 words for topic #9:
+['try', 'power', 'different', 'new', 'ethernet', 'change', 'address', 'modem', 'ip', 'router']
+

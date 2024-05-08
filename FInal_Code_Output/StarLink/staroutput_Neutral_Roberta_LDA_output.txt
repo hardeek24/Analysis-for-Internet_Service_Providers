@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+sign
+people
+make
+month
+starlink
+center
+bond
+https
+service
+data
+
+Top 10 words for topic #0:
+['sign', 'people', 'make', 'month', 'starlink', 'center', 'bond', 'https', 'service', 'data']
+
+Top 10 words for topic #1:
+['ping', 'east', 'residential', 'set', 'new', 'reset', 'middle', 'subscription', 'factory', 'starlink']
+
+Top 10 words for topic #2:
+['location', 'need', 'data', 'use', 'router', 'service', 'power', 'cable', 'https', 'starlink']
+
+Top 10 words for topic #3:
+['dishy', 'client', 'actually', 'address', 'ip', 'renew', 'gen', 'lease', 'dhcp', 'use']
+
+Top 10 words for topic #4:
+['barn', 'way', 'business', 'dish', 'look', 'mount', 'issue', 'starlink', 'router', 'work']
+
+Top 10 words for topic #5:
+['low', 'send', 'satellite', 'dont', 'time', 'fiber', 'starlink', 'shortwave', 'bandwidth', 'need']
+
+Top 10 words for topic #6:
+['starlink', 'need', 'data', 'service', 'make', 'issue', 'network', 'pretty', 'look', 'like']
+
+Top 10 words for topic #7:
+['cable', 'second', 'mobile', 'country', 'plan', 'use', 'https', 'buy', 'starlink', 'service']
+
+Top 10 words for topic #8:
+['time', 'wait', 'terminal', 'internet', 'https', 'starlink', 'station', 'grind', 'orbit', 'satellite']
+
+Top 10 words for topic #9:
+['assign', 'set', 'request', 'devices', 'dhcp', 'device', 'lease', 'router', 'ip', 'address']
+

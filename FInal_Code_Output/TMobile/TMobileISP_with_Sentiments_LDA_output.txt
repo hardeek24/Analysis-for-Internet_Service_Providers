@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+better
+pixel
+ethernet
+think
+work
+tmhi
+connect
+speed
+use
+wifi
+
+Top 10 words for topic #0:
+['better', 'pixel', 'ethernet', 'think', 'work', 'tmhi', 'connect', 'speed', 'use', 'wifi']
+
+Top 10 words for topic #1:
+['bot', 'action', 'subreddit', 'automatically', 'karma', 'days', 'old', 'post', 'comment', 'account']
+
+Top 10 words for topic #2:
+['time', 'speed', 'high', 'gateway', 'people', 'connect', 'use', 'work', 'tower', 'band']
+
+Top 10 words for topic #3:
+['area', 'network', 'pay', 'im', 'dont', 'bar', 'use', 'gateway', 'internet', 'speed']
+
+Top 10 words for topic #4:
+['try', 'tower', 'near', 'device', 'use', 'good', 'gateway', 'signal', 'metrics', 'bar']
+
+Top 10 words for topic #5:
+['try', 'packet', 'different', 'https', 'loss', 'gateway', 'use', 'tower', 'test', 'speed']
+
+Top 10 words for topic #6:
+['think', 'thank', 'modem', 'issue', 'new', 'change', 'service', 'say', 'support', 'like']
+
+Top 10 words for topic #7:
+['hours', 'peak', 'band', 'phone', 'tower', 'im', 'gateways', 'speed', 'update', 'firmware']
+
+Top 10 words for topic #8:
+['need', 'router', 'sa', 'data', 'mbps', 'work', 'ping', 'time', 'stream', 'use']
+
+Top 10 words for topic #9:
+['switch', 'speed', 'issue', 'like', 'better', 'know', 'say', 'settings', 'router', 'try']
+

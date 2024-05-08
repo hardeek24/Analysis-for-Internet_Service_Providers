@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+tmobile
+right
+people
+tower
+address
+users
+mean
+use
+cancel
+service
+
+Top 10 words for topic #0:
+['tmobile', 'right', 'people', 'tower', 'address', 'users', 'mean', 'use', 'cancel', 'service']
+
+Top 10 words for topic #1:
+['dont', 'help', 'big', 'watch', 'load', 'internet', 'test', 'use', 'wifi', 'speed']
+
+Top 10 words for topic #2:
+['happen', 'download', 'pay', 'work', 'old', 'know', 'packet', 'loss', 'gateway', 'dont']
+
+Top 10 words for topic #3:
+['stuff', 'lte', 'upload', 'band', 'slower', 'trump', 'speed', 'cox', 'service', 'switch']
+
+Top 10 words for topic #4:
+['isnt', 'think', 'band', 'tower', 'drop', 'really', 'pixels', 'internet', 'issue', 'use']
+
+Top 10 words for topic #5:
+['drop', 'mean', 'work', 'people', 'post', 'connection', 'sinr', 'bad', 'speed', 'bar']
+
+Top 10 words for topic #6:
+['metrics', 'wrong', 'fix', 'shit', 'time', 'issue', 'signal', 'people', 'work', 'tower']
+
+Top 10 words for topic #7:
+['away', 'backhaul', 'device', 'sector', 'support', 'tower', 'internet', 'say', 'signal', 'service']
+
+Top 10 words for topic #8:
+['wont', 'iphone', 'stable', 'morning', 'ping', 'connect', 'say', 'use', 'happen', 'like']
+
+Top 10 words for topic #9:
+['tmobile', 'complain', 'day', 'peak', 'stupid', 'tmhi', 'issue', 'congestion', 'trash', 'time']
+

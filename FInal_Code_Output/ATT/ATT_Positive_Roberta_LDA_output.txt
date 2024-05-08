@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+store
+data
+like
+great
+verizon
+experience
+switch
+wireless
+service
+better
+
+Top 10 words for topic #0:
+['store', 'data', 'like', 'great', 'verizon', 'experience', 'switch', 'wireless', 'service', 'better']
+
+Top 10 words for topic #1:
+['best', 'definitely', 'read', 'lol', 'company', 'work', 'devices', 'speed', 'store', 'thank']
+
+Top 10 words for topic #2:
+['mobile', 'carrier', 'make', 'work', 'good', 'years', 'fine', 'pay', 'job', 'new']
+
+Top 10 words for topic #3:
+['thing', 'work', 'funniest', 'want', 'read', 'good', 'unlock', 'finance', 'prepay', 'phone']
+
+Top 10 words for topic #4:
+['sure', 'upgrade', 'best', 'similar', 'speed', 'verizon', 'att', 'durant', 'near', 'good']
+
+Top 10 words for topic #5:
+['years', 'read', 'lmao', 'thats', 'good', 'better', 'comment', 'welcome', 'lucky', 'love']
+
+Top 10 words for topic #6:
+['think', 'like', 'great', 'love', 'credit', 'lot', 'att', 'really', 'deal', 'plan']
+
+Top 10 words for topic #7:
+['pro', 'number', 'plan', 'really', 'iphone', 'good', 'account', 'balance', 'cheap', 'port']
+
+Top 10 words for topic #8:
+['switch', 'price', 'line', 'need', 'look', 'discount', 'way', 'time', 'account', 'use']
+
+Top 10 words for topic #9:
+['tell', 'use', 'plan', 'issue', 'really', 'resolve', 'service', 'hear', 'great', 'thank']
+

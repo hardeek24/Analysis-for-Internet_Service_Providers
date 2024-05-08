@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+place
+people
+really
+good
+food
+best
+know
+love
+nice
+great
+
+Top 10 words for topic #0:
+['place', 'people', 'really', 'good', 'food', 'best', 'know', 'love', 'nice', 'great']
+
+Top 10 words for topic #1:
+['use', 'come', 'good', 'make', 'pretty', 'car', 'time', 'love', 'summer', 'cool']
+
+Top 10 words for topic #2:
+['think', 'come', 'great', 'look', 'time', 'love', 'really', 'people', 'make', 'like']
+
+Top 10 words for topic #3:
+['meet', 'like', 'great', 'really', 'love', 'dog', 'park', 'pretty', 'place', 'good']
+
+Top 10 words for topic #4:
+['comment', 'talk', 'great', 'nice', 'check', 'post', 'question', 'server', 'people', 'https']
+
+Top 10 words for topic #5:
+['make', 'good', 'welcome', 'ive', 'help', 'youre', 'great', 'know', 'new', 'thank']
+
+Top 10 words for topic #6:
+['love', 'amaze', 'people', 'good', 'look', 'food', 'like', 'lot', 'water', 'great']
+
+Top 10 words for topic #7:
+['awesome', 'need', 'like', 'isnt', 'thread', 'welcome', 'youre', 'https', 'good', 'post']
+
+Top 10 words for topic #8:
+['time', 'place', 'day', 'house', 'better', 'way', 'good', 'great', 'im', 'thats']
+
+Top 10 words for topic #9:
+['pay', 'home', 'nice', 'tile', 'time', 'floor', 'think', 'great', 'look', 'love']
+

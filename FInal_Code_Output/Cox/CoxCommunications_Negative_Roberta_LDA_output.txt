@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+modem
+pay
+house
+company
+like
+know
+issue
+email
+service
+cox
+
+Top 10 words for topic #0:
+['modem', 'pay', 'house', 'company', 'like', 'know', 'issue', 'email', 'service', 'cox']
+
+Top 10 words for topic #1:
+['internet', 'cox', 'try', 'people', 'years', 'file', 'modem', 'connect', 'use', 'work']
+
+Top 10 words for topic #2:
+['need', 'cox', 'free', 'sound', 'like', 'internet', 'use', 'change', 'cable', 'throttle']
+
+Top 10 words for topic #3:
+['class', 'options', 'shady', 'practice', 'sure', 'worst', 'fuck', 'know', 'service', 'cox']
+
+Top 10 words for topic #4:
+['cable', 'isnt', 'time', 'internet', 'broadband', 'home', 'im', 'fiber', 'say', 'cox']
+
+Top 10 words for topic #5:
+['wire', 'use', 'router', 'happen', 'support', 'service', 'make', 'wifi', 'modem', 'tech']
+
+Top 10 words for topic #6:
+['wont', 'check', 'ip', 'change', 'come', 'cox', 'pay', 'say', 'try', 'service']
+
+Top 10 words for topic #7:
+['choice', 'raise', 'isnt', 'change', 'price', 'speed', 'reason', 'area', 'able', 'doesnt']
+
+Top 10 words for topic #8:
+['thank', 'google', 'customer', 'feel', 'internet', 'try', 'service', 'cox', 'modem', 'issue']
+
+Top 10 words for topic #9:
+['tv', 'die', 'outages', 'email', 'data', 'service', 'phone', 'yahoo', 'cox', 'internet']
+

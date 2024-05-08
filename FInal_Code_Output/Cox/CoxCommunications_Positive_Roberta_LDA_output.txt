@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+month
+switch
+verizon
+try
+modem
+issue
+data
+unlimited
+speed
+cox
+
+Top 10 words for topic #0:
+['month', 'switch', 'verizon', 'try', 'modem', 'issue', 'data', 'unlimited', 'speed', 'cox']
+
+Top 10 words for topic #1:
+['date', 'setup', 'best', 'good', 'game', 'number', 'unlimited', 'price', 'know', 'stream']
+
+Top 10 words for topic #2:
+['https', 'devices', 'forward', 'options', 'come', 'good', 'port', 'router', 'check', 'like']
+
+Top 10 words for topic #3:
+['return', 'cox', 'say', 'pay', 'fiber', 'great', 'new', 'switch', 'home', 'store']
+
+Top 10 words for topic #4:
+['supply', 'want', 'comment', 'perfectly', 'fine', 'info', 'sense', 'better', 'make', 'thank']
+
+Top 10 words for topic #5:
+['best', 'data', 'make', 'ive', 'plan', 'mobile', 'internet', 'im', 'service', 'cox']
+
+Top 10 words for topic #6:
+['options', 'honest', 'good', 'really', 'better', 'sales', 'add', 'market', 'internet', 'cox']
+
+Top 10 words for topic #7:
+['stream', 'devices', 'work', 'cox', 'need', 'time', 'use', 'home', 'speed', 'service']
+
+Top 10 words for topic #8:
+['fiber', 'post', 'offer', 'great', 'plan', 'discount', 'cox', 'best', 'years', 'email']
+
+Top 10 words for topic #9:
+['switch', 'info', 'try', 'cox', 'check', 'hear', 'available', 'ill', 'thank', 'appreciate']
+

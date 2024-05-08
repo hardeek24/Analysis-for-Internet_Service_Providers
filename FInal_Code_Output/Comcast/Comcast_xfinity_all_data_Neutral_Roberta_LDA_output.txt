@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+add
+able
+need
+service
+cancel
+new
+device
+xfinity
+account
+try
+
+Top 10 words for topic #0:
+['add', 'able', 'need', 'service', 'cancel', 'new', 'device', 'xfinity', 'account', 'try']
+
+Top 10 words for topic #1:
+['want', 'wifi', 'email', 'unlimited', 'connect', 'router', 'use', 'modem', 'need', 'speed']
+
+Top 10 words for topic #2:
+['advise', 'file', 'post', 'make', 'community', 'include', 'help', 'phone', 'number', 'change']
+
+Top 10 words for topic #3:
+['phone', 'pay', 'plan', 'mobile', 'increase', 'email', 'xfinity', 'data', 'price', 'use']
+
+Top 10 words for topic #4:
+['support', 'troubleshoot', 'assistance', 'help', 'request', 'team', 'time', 'xfinity', 'official', 'https']
+
+Top 10 words for topic #5:
+['account', 'look', 'service', 'reach', 'thank', 'message', 'https', 'address', 'modmail', 'send']
+
+Top 10 words for topic #6:
+['change', 'plan', 'internet', 'power', 'thing', 'gateway', 'box', 'service', 'tv', 'cable']
+
+Top 10 words for topic #7:
+['upload', 'https', 'new', 'say', 'line', 'tech', 'speed', 'comcast', 'plan', 'xfinity']
+
+Top 10 words for topic #8:
+['remove', 'image', 'automatically', 'moderator', 'comment', 'content', 'link', 'filter', 'contain', 'post']
+
+Top 10 words for topic #9:
+['community', 'flair', 'close', 'mark', 'experience', 'issue', 'receive', 'create', 'new', 'post']
+

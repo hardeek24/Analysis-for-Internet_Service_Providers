@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+lose
+people
+right
+doesnt
+like
+know
+say
+try
+im
+work
+
+Top 10 words for topic #0:
+['lose', 'people', 'right', 'doesnt', 'like', 'know', 'say', 'try', 'im', 'work']
+
+Top 10 words for topic #1:
+['want', 'say', 'live', 'use', 'place', 'think', 'lot', 'dont', 'people', 'like']
+
+Top 10 words for topic #2:
+['contact', 'work', 'remove', 'profanity', 'understand', 'language', 'ask', 'comment', 'use', 'https']
+
+Top 10 words for topic #3:
+['account', 'like', 'work', 'customer', 'pay', 'use', 'phone', 'issue', 'cancel', 'service']
+
+Top 10 words for topic #4:
+['phoenix', 'die', 'right', 'fuck', 'try', 'like', 'sorry', 'years', 'work', 'bad']
+
+Top 10 words for topic #5:
+['tell', 'make', 'use', 'want', 'time', 'think', 'say', 'know', 'like', 'dont']
+
+Top 10 words for topic #6:
+['feel', 'like', 'people', 'rule', 'fuck', 'remove', 'make', 'look', 'https', 'comment']
+
+Top 10 words for topic #7:
+['pay', 'rule', 'card', 'apartment', 'house', 'post', 'people', 'hate', 'like', 'dog']
+
+Top 10 words for topic #8:
+['ive', 'day', 'work', 'dont', 'time', 'people', 'know', 'issue', 'internet', 'problem']
+
+Top 10 words for topic #9:
+['fee', 'say', 'tower', 'use', 'bad', 'make', 'like', 'years', 'signal', 'time']
+

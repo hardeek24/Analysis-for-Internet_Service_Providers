@@ -1,0 +1,42 @@
+Most "Important" words for forming topic distribution:
+change
+att
+money
+post
+think
+phone
+email
+dont
+time
+passcode
+
+Top 10 words for topic #0:
+['change', 'att', 'money', 'post', 'think', 'phone', 'email', 'dont', 'time', 'passcode']
+
+Top 10 words for topic #1:
+['complaint', 'credit', 'company', 'time', 'account', 'pay', 'customer', 'file', 'cancel', 'line']
+
+Top 10 words for topic #2:
+['pretty', 'million', 'customer', 'situation', 'need', 'service', 'years', 'terrible', 'problem', 'mess']
+
+Top 10 words for topic #3:
+['work', 'pay', 'say', 'dont', 'know', 'month', 'months', 'hours', 'read', 'charge']
+
+Top 10 words for topic #4:
+['lte', 'bar', 'uw', 'uc', 'use', 'like', 'la', 'areas', 'seattle', 'verizon']
+
+Top 10 words for topic #5:
+['want', 'store', 'new', 'say', 'like', 'customer', 'service', 'cancel', 'phone', 'line']
+
+Top 10 words for topic #6:
+['att', 'thing', 'visit', 'pixel', 'texts', 'care', 'end', 'day', 'sorry', 'time']
+
+Top 10 words for topic #7:
+['look', 'let', 'buy', 'add', 'data', 'force', 'happen', 'ar', 'say', 'cancel']
+
+Top 10 words for topic #8:
+['late', 'phone', 'dont', 'time', 'people', 'issue', 'credit', 'att', 'say', 'pay']
+
+Top 10 words for topic #9:
+['att', 'like', 'year', 'say', 'info', 'line', 'customers', 'lose', 'think', 'data']
+
