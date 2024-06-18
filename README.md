@@ -1,5 +1,6 @@
 Project Overview
-This project aims to analyze unstructured and noisy social media data collected from platforms like Reddit to derive insights for leading internet service providers. The analysis involves lemmatization, topic filtering, text classification, and sentiment analysis using state-of-the-art NLP models like BERT and RoBERTa. The ultimate goal is to perform customer segmentation for targeted marketing and increase revenue.
+
+This project aims to analyze unstructured and noisy social media data collected from platforms like Reddit to derive insights for leading internet service providers. The analysis involves lemmatization, topic filtering, text classification, and sentiment analysis using state-of-the-art NLP models like BERT and RoBERTa. The ultimate goal is to perform customer segmentation for targeted marketing and increase revenue. The project utilized transfer learning and has evolved from training on datasets like IMDB and YELP.
 
 Steps to follow:
 1. Clone the repository
