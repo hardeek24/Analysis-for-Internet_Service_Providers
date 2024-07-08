@@ -1,5 +1,8 @@
 # Social Media Data Analysis for ISPs
 
+![starlink](https://github.com/hardeek24/StarLink-Project/assets/162917115/3fc5f003-122e-4870-89fe-dcbfbe0e2b13)
+
+
 ## Project Overview
 
 This project analyzes unstructured and noisy social media data from platforms like Reddit to derive insights for leading internet service providers (ISPs). The analysis process includes lemmatization, topic filtering, text classification, and sentiment analysis using advanced NLP models like BERT and RoBERTa. The ultimate goal is to perform customer segmentation for targeted marketing to increase revenue. This project utilizes transfer learning techniques, building upon training datasets like IMDB and Yelp.
